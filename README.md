@@ -1,4 +1,5 @@
 # DisasterResponsePipeline
+Summary: The objective of disaster response pipeline project is to use messages sent during emergencies and analyse and classify them to be sent to appropriate disaster response agencies. It uses traditional data selection and cleaning approach with advanced natural language processing algorithm to classify messages. Finally, it links to a web based dashboard designed for end user.
 
 Objective: The objective is to create a disaster response pipeline.
 
